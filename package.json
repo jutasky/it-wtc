@@ -4,7 +4,6 @@
   "description": "> [巨塔工作室](www.jutasky.cn)`初次作品`\r ### 效果展示页面 [计算机学院](it.wtc.edu.cn)",
   "main": "gulpfile.js",
   "dependencies": {
-    "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0",
     "gulp-less": "^3.3.2"
