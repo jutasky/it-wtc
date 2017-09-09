@@ -89,7 +89,6 @@ gulp.task('watchjs', () => {
 })
 // 监听 Js
 
-
 gulp.task('default', [
 	// reload
 	'indexhtml', 'img', 'less', 'js', 'cpfont', 'connect',
