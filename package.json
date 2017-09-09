@@ -1,0 +1,25 @@
+{
+  "name": "wtc-it",
+  "version": "1.0.0",
+  "description": "> [巨塔工作室](www.jutasky.cn)`初次作品`\r ### 效果展示页面 [计算机学院](it.wtc.edu.cn)",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.2"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-template": "^4.0.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
