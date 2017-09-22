@@ -51,9 +51,7 @@
 ### 查看使用
 ```bash
 git clone git@github.com:zp29/wtc-it.git
-// 下载zip包
-tar czvf wtc-it.zip 
-// 解压 
+// 克隆到本地
 cd wtc-it
 // 进入目录
 npm i gulp -g && npm i
