@@ -34,7 +34,8 @@
     + `swiper` 插件实现轮播图
     
 - 构建工具
-    + `Gulp`
+    + `Gulp` + `babel`
+    > 有点落后的感觉
     
 - 测试工具
 	+ `http-server`实现手机端测试
